@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/windows:1909
+FROM mcr.microsoft.com/windows:1909@sha256:c87d7681ad97b8a962e7da81038b95d804269b2d4b4cf25d18bada24bacd54ee
 
 WORKDIR C:/App
 
